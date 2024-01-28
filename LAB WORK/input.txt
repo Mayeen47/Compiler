@@ -4,10 +4,18 @@ using namespace std;
 int main()
 {
     // This is a single line comment
+
     cout << "Hello, World!" << endl;
     // This is a single line comment
+
     cout << "This is a simple C++ program." << endl;
     //MY name is Mayeen Uddin hasan
+
     cout<<"MY Name is Mayeen Uddin Hasan"<<endl;
     return 0;
+    /*
+    MY name is Mayeen Uddin hasan
+    cout<<"MY Name is Mayeen Uddin Hasan"<<endl;  */
+
+
 }
