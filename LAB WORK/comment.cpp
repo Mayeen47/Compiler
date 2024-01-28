@@ -62,7 +62,8 @@ int main()
 
     string result = removeComments(inputContent);
 
-    cout << "Content without comments:\n\n";
+    cout << "Content without comments:"<<endl;
+    cout<<endl;
     cout << result << endl;
 
     return 0;
