@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    
+
+    cout << "Hello, World!" << endl;
+    
+
+    cout << "This is a simple C++ program." << endl;
+    
+
+    cout<<"MY Name is Mayeen Uddin Hasan"<<endl;
+    return 0;
+    
+    MY name is Mayeen Uddin hasan
+    cout<<"MY Name is Mayeen Uddin Hasan"<<endl;  */
+
+
+}
